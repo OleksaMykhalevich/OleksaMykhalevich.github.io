@@ -1,0 +1,36 @@
+header{
+	background-color:gray;
+	height:100px;
+	width:900%;
+	margin-bottom:1%;
+	text-align:center;
+	padding-top:30px;
+	margin:10px auto;
+	
+}
+aside{
+	background-color:yellow;
+	color:black;
+	height:300px;
+	padding-top:30px:
+	width:300px;
+	float:left;
+	}
+main{
+	background-color:green;
+	height:300px;
+	text-align:center;
+	padding-top:30px;
+	}
+footer{
+	background-color:red;
+	color:white;
+	height:200px;
+	width:900px;
+	margin:10px auto;
+	}
+	div{
+		width:900px;
+	     margin:10px auto;
+		
+	}
